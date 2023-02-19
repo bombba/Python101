@@ -1,0 +1,2 @@
+name = 'Namo'
+lastname = 'Narknam'
